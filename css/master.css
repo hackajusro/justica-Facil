@@ -1,0 +1,46 @@
+.ajuda{
+  color: black;
+  background-color: #F4F5F2;
+}
+
+header{
+  background-color: white !important;
+}
+
+
+.card-body{
+  padding: none !important;
+  color: black !important;
+}
+
+.btn-link{
+  text-decoration: none !important;
+  color: White;
+}
+
+.btn-link:hover{
+  color: white !important;
+}
+
+.card-header{
+  background-color: #2C3E50 !important;
+}
+
+.modal-content{
+  padding: 20px !important;
+  color: black !important;
+  text-align: justify;
+}
+
+.pe{
+  color: black !important;
+  text-align: justify;
+}
+
+.duvidas{
+  height: 100px !important;
+}
+
+.sumario{
+  text-align: justify !important;
+}
